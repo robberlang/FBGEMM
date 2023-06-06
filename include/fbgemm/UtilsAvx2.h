@@ -9,6 +9,7 @@
 // flags.
 
 #include <string>
+#include <cstdint>
 
 namespace fbgemm {
 
