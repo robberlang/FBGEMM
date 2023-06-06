@@ -8,6 +8,7 @@
 #include <array>
 #include <string>
 #include <type_traits>
+#include <cstdint>
 #include "FbgemmBuild.h"
 #include "UtilsAvx2.h"
 
