@@ -1,6 +1,7 @@
 [submodule "third_party/asmjit"]
 	path = third_party/asmjit
 	url = ../asmjit
+	branch = for_marian
 [submodule "third_party/cpuinfo"]
 	path = third_party/cpuinfo
 	url = ../cpuinfo
