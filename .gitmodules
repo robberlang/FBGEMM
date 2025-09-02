@@ -1,10 +1,10 @@
 [submodule "third_party/asmjit"]
 	path = third_party/asmjit
-	url = https://github.com/asmjit/asmjit.git
+	url = ../asmjit
 [submodule "third_party/cpuinfo"]
 	path = third_party/cpuinfo
-	url = https://github.com/marian-nmt/cpuinfo
+	url = ../cpuinfo
 	branch = master
 [submodule "third_party/googletest"]
 	path = third_party/googletest
-	url = https://github.com/google/googletest
+	url = ../googletest
